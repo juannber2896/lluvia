@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/226/310/non_2x/halloween-dark-night-scenery-background-concept-free-vector.jpg);
+    background-size: 2000px;
+}
+
+p{
+    font-size: 130px;
+    color: rgb(116, 197, 197);
+    background-color: rgb(155, 129, 121);
+}
+
+h4{
+    font-size: 80px;
+    color: rgb(162, 216, 216);
+    background-color: rgb(25, 75, 58);
+}
+
+h5{
+    font-size: 80px;
+    color: rgb(59, 69, 201);
+    background-color: rgb(159, 189, 179);
+}
